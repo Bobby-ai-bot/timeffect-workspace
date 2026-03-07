@@ -1,0 +1,4 @@
+secrets/
+.openclaw/
+*.log
+node_modules/
